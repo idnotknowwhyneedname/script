@@ -38,10 +38,6 @@ IP-CIDR,36.150.97.0/24,no-resolve
 IP-CIDR,43.160.156.0/24,no-resolve
 IP-CIDR,101.32.133.0/24,no-resolve
 IP-ASN,132203,no-resolve
-# =====CHSI====
-DOMAIN-SUFFIX,chsi.com.cn
-DOMAIN-SUFFIX,chsischina.com
-DOMAIN-SUFFIX,xuexin.com
 # ===== AliPay =====
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alipay-corp.com
