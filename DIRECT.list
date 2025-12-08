@@ -32,7 +32,7 @@ IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
-# 泰国 7‑Eleven
+# =====Thailand====
 DOMAIN-SUFFIX,7-eleven.co.th
 DOMAIN-SUFFIX,7eleven.co.th
 DOMAIN-SUFFIX,cpall.co.th
@@ -40,6 +40,23 @@ DOMAIN-KEYWORD,starbucks
 DOMAIN-SUFFIX,myrabbit.me
 DOMAIN-SUFFIX,rabbit.co.th
 DOMAIN-SUFFIX,rabbitcard.co.th
+DOMAIN-SUFFIX,truemoney.com
+DOMAIN-SUFFIX,truemoney.co.th
+DOMAIN-SUFFIX,tmwallet.co.th
+DOMAIN-SUFFIX,truecorp.co.th
+DOMAIN-SUFFIX,truemoveh.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-KEYWORD,truemoney
+DOMAIN-KEYWORD,trumoney
+DOMAIN-KEYWORD,tmn
+IP-CIDR,110.164.0.0/16,no-resolve
+IP-CIDR,124.122.0.0/16,no-resolve
+IP-CIDR,203.144.128.0/18,no-resolve
+IP-CIDR,58.8.0.0/16,no-resolve
+IP-CIDR,49.230.0.0/15,no-resolve
 # =====binance====
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
