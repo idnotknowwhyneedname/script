@@ -38,30 +38,6 @@ IP-CIDR,36.150.97.0/24,no-resolve
 IP-CIDR,43.160.156.0/24,no-resolve
 IP-CIDR,101.32.133.0/24,no-resolve
 IP-ASN,132203,no-resolve
-# ===== AliPay =====
-DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,alipay-corp.com
-DOMAIN-SUFFIX,alipay-eco.com
-DOMAIN-SUFFIX,alipay-inc.com
-DOMAIN-SUFFIX,alipay-traffic.com
-DOMAIN-SUFFIX,alipay.cn
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipay.com.cn
-DOMAIN-SUFFIX,alipay.hk
-DOMAIN-SUFFIX,alipay.net
-DOMAIN-SUFFIX,alipaydesign.com
-DOMAIN-SUFFIX,alipaydev.com
-DOMAIN-SUFFIX,alipaydns.com
-DOMAIN-SUFFIX,alipayeshop.com
-DOMAIN-SUFFIX,alipaylog.com
-DOMAIN-SUFFIX,alipaymo.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,alipayplus.com
-DOMAIN-SUFFIX,ifaa.org.cn
-DOMAIN-SUFFIX,luohanacademy.com
-DOMAIN-SUFFIX,sinopayment.com.cn
-DOMAIN-SUFFIX,dgtis.com
-IP-CIDR,163.181.94.203/32,no-resolve
 # ===== XiaoHongShu =====
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com
@@ -72,6 +48,24 @@ DOMAIN-SUFFIX,qiezibenpao.com
 DOMAIN-SUFFIX,xinqiucc.com
 IP-CIDR,47.97.192.58/32,no-resolve
 # ===== XianYu / Goofish =====
+DOMAIN-SUFFIX,xianyu.mobi
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN-SUFFIX,tls-goofish.dingtalk.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,ad.alicdn.com
+DOMAIN-SUFFIX,adashx.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,api-e189.21cn.com
+USER-AGENT,AliApp*
+USER-AGENT,XianYu*
 IP-CIDR,47.246.103.10/32,no-resolve
 IP-CIDR,139.95.4.98/32,no-resolve
 IP-CIDR,59.82.113.219/32,no-resolve
