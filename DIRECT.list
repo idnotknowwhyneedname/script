@@ -32,6 +32,25 @@ IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
+# ===== XianYu / Goofish =====
+DOMAIN-SUFFIX,xianyu.mobi
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN-SUFFIX,tls-goofish.dingtalk.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,ad.alicdn.com
+DOMAIN-SUFFIX,adashx.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,api-e189.21cn.com
+USER-AGENT,AliApp*
+USER-AGENT,XianYu*
 # =====Thailand====
 DOMAIN-SUFFIX,7-eleven.co.th
 DOMAIN-SUFFIX,7eleven.co.th
