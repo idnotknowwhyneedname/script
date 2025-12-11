@@ -81,11 +81,10 @@ IP-CIDR,124.122.0.0/16,no-resolve
 IP-CIDR,203.144.128.0/18,no-resolve
 IP-CIDR,58.8.0.0/16,no-resolve
 IP-CIDR,49.230.0.0/15,no-resolve
-# =====binance====
-DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binance.cloud
+# ===== Binance =====
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,binancefuture.com
 DOMAIN-SUFFIX,bnappzh.co
@@ -94,6 +93,35 @@ DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binancepay.com
+DOMAIN-SUFFIX,binancepay.co
+DOMAIN-SUFFIX,binancenft.com
+DOMAIN-SUFFIX,binancenft.io
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binanceapi.io
+DOMAIN-SUFFIX,binancesandbox.com
+DOMAIN-SUFFIX,binancesandbox.io
+DOMAIN-SUFFIX,binancegateway.com
+DOMAIN-SUFFIX,binancegateway.io
+DOMAIN-SUFFIX,binancewallet.com
+DOMAIN-SUFFIX,binancewallet.io
+DOMAIN-SUFFIX,binancead.com
+DOMAIN-SUFFIX,binancead.io
+DOMAIN-SUFFIX,binancepayapi.com
+DOMAIN-SUFFIX,binancepayapi.io
+DOMAIN-SUFFIX,binance-portal.com
+DOMAIN-SUFFIX,binance-portal.io
+DOMAIN-SUFFIX,binance-stats.com
+DOMAIN-SUFFIX,binance-stats.io
+DOMAIN-SUFFIX,binance-cdn.com
+DOMAIN-SUFFIX,binance-cdn.io
+DOMAIN-SUFFIX,binance-robot.com
+DOMAIN-SUFFIX,binance-robot.io
+DOMAIN-SUFFIX,binance-futures.com
+DOMAIN-SUFFIX,binance-futures.io
+DOMAIN-SUFFIX,binance-trade.com
+DOMAIN-SUFFIX,binance-trade.io
 # ===== Telegram (Local Direct) ====
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
