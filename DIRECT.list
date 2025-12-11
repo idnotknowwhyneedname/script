@@ -93,15 +93,33 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-KEYWORD,truemoney
 DOMAIN-KEYWORD,trumoney
 DOMAIN-KEYWORD,tmn
-DOMAIN-SUFFIX,photos.google.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,googleapis.com
 IP-CIDR,110.164.0.0/16,no-resolve
 IP-CIDR,124.122.0.0/16,no-resolve
 IP-CIDR,203.144.128.0/18,no-resolve
 IP-CIDR,58.8.0.0/16,no-resolve
 IP-CIDR,49.230.0.0/15,no-resolve
+# Google Photos 本地分流
+DOMAIN-SUFFIX,photos.google.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,lh3.googleusercontent.com
+DOMAIN-SUFFIX,lh4.googleusercontent.com
+DOMAIN-SUFFIX,lh5.googleusercontent.com
+DOMAIN-SUFFIX,lh6.googleusercontent.com
+DOMAIN-SUFFIX,lh7.googleusercontent.com
+DOMAIN-SUFFIX,lh8.googleusercontent.com
+DOMAIN-SUFFIX,lh9.googleusercontent.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,appengine.google.com
+DOMAIN-SUFFIX,content.googleapis.com
+DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,clients2.google.com
 # ===== Binance =====
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
