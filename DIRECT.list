@@ -33,16 +33,15 @@ IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 # ===== AliPay =====
-DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,alipay-corp.com
-DOMAIN-SUFFIX,alipay-eco.com
-DOMAIN-SUFFIX,alipay-inc.com
-DOMAIN-SUFFIX,alipay-traffic.com
-DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.com.cn
 DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipay.net
+DOMAIN-SUFFIX,alipay-eco.com
+DOMAIN-SUFFIX,alipay-traffic.com
+DOMAIN-SUFFIX,alipay-corp.com
+DOMAIN-SUFFIX,alipay-inc.com
 DOMAIN-SUFFIX,alipaydesign.com
 DOMAIN-SUFFIX,alipaydev.com
 DOMAIN-SUFFIX,alipaydns.com
@@ -55,6 +54,24 @@ DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,luohanacademy.com
 DOMAIN-SUFFIX,sinopayment.com.cn
 DOMAIN-SUFFIX,dgtis.com
+DOMAIN-SUFFIX,alipaywallet.com
+DOMAIN-SUFFIX,alipayapi.com
+DOMAIN-SUFFIX,alipaygateway.com
+DOMAIN-SUFFIX,alipayapp.com
+DOMAIN-SUFFIX,alipaymobile.com
+DOMAIN-SUFFIX,alipayfinance.com
+DOMAIN-SUFFIX,alipaycloud.com
+DOMAIN-SUFFIX,alipayad.com
+DOMAIN-SUFFIX,alipayad.cn
+DOMAIN-SUFFIX,alipayad.net
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,ad.alicdn.com
+DOMAIN-SUFFIX,adashx.com
+DOMAIN-SUFFIX,bytescm.com
 IP-CIDR,163.181.94.203/32,no-resolve
 # =====Thailand====
 DOMAIN-SUFFIX,7-eleven.co.th
