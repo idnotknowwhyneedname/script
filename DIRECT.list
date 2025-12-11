@@ -93,6 +93,10 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-KEYWORD,truemoney
 DOMAIN-KEYWORD,trumoney
 DOMAIN-KEYWORD,tmn
+DOMAIN-SUFFIX,photos.google.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleapis.com
 IP-CIDR,110.164.0.0/16,no-resolve
 IP-CIDR,124.122.0.0/16,no-resolve
 IP-CIDR,203.144.128.0/18,no-resolve
