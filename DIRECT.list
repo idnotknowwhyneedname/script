@@ -100,9 +100,7 @@ IP-CIDR,58.8.0.0/16,no-resolve
 IP-CIDR,49.230.0.0/15,no-resolve
 # Google Photos 本地分流
 DOMAIN-SUFFIX,photos.google.com
-DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,lh3.googleusercontent.com
 DOMAIN-SUFFIX,lh4.googleusercontent.com
