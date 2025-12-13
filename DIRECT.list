@@ -181,6 +181,9 @@ DOMAIN-SUFFIX,redditrouter.com
 # ===== XianYu / Goofish =====
 DOMAIN-SUFFIX,xianyu.mobi
 DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN-SUFFIX,tls-goofish.dingtalk.com
+DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliapp.org
@@ -188,16 +191,16 @@ DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,ad.alicdn.com
+DOMAIN-SUFFIX,adashx.com
+DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,alibaba-inc.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,tls-goofish.dingtalk.com
-# ===== XiaoHongShu =====
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,tianwenca.com
-DOMAIN-SUFFIX,qiezibenpao.com
-DOMAIN-SUFFIX,xinqiucc.com
+DOMAIN-SUFFIX,api-e189.21cn.com
+IP-CIDR,47.246.103.10/32,no-resolve
+IP-CIDR,139.95.4.98/32,no-resolve
+IP-CIDR,59.82.113.219/32,no-resolve
+IP-CIDR,139.95.0.151/32,no-resolve
+IP-CIDR,47.246.103.9/32,no-resolve
+IP-CIDR,59.82.113.10/32,no-resolve
 # ===== Telegram (Local Direct) ====
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
