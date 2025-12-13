@@ -178,6 +178,26 @@ DOMAIN-SUFFIX,external-preview.redd.it
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditmap.org
 DOMAIN-SUFFIX,redditrouter.com
+# ===== XianYu / Goofish =====
+DOMAIN-SUFFIX,xianyu.mobi
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,ad.alicdn.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,tls-goofish.dingtalk.com
+# ===== XiaoHongShu =====
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,tianwenca.com
+DOMAIN-SUFFIX,qiezibenpao.com
+DOMAIN-SUFFIX,xinqiucc.com
 # ===== Telegram (Local Direct) ====
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
