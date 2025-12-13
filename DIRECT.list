@@ -174,19 +174,9 @@ IP-CIDR,47.97.192.58/32,no-resolve
 # ===== XianYu / Goofish =====
 DOMAIN-SUFFIX,xianyu.mobi
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,tls-goofish.dingtalk.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,api-e189.21cn.com
-IP-CIDR,47.246.103.10/32,no-resolve
-IP-CIDR,139.95.4.98/32,no-resolve
-IP-CIDR,59.82.113.219/32,no-resolve
-IP-CIDR,139.95.0.151/32,no-resolve
-IP-CIDR,47.246.103.9/32,no-resolve
-IP-CIDR,59.82.113.10/32,no-resolve
 # ===== WeChat =====
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
