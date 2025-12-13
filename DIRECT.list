@@ -1,4 +1,4 @@
-# ===== Apple =====
+ # ===== Apple =====
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,apps.apple.com
@@ -26,7 +26,6 @@ IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
-
 # ===== AliPay =====
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipay.cn
@@ -68,7 +67,7 @@ DOMAIN-SUFFIX,ad.alicdn.com
 DOMAIN-SUFFIX,adashx.com
 DOMAIN-SUFFIX,bytescm.com
 IP-CIDR,163.181.94.203/32,no-resolve
-# ===== Thailand =====
+# =====Thailand=====
 DOMAIN-SUFFIX,7-eleven.co.th
 DOMAIN-SUFFIX,7eleven.co.th
 DOMAIN-SUFFIX,cpall.co.th
@@ -93,27 +92,69 @@ IP-CIDR,124.122.0.0/16,no-resolve
 IP-CIDR,203.144.128.0/18,no-resolve
 IP-CIDR,58.8.0.0/16,no-resolve
 IP-CIDR,49.230.0.0/15,no-resolve
-# ===== Google Photos =====
+# Google Photos 本地分流
 DOMAIN-SUFFIX,photos.google.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,lh3.googleusercontent.com
+DOMAIN-SUFFIX,lh4.googleusercontent.com
+DOMAIN-SUFFIX,lh5.googleusercontent.com
+DOMAIN-SUFFIX,lh6.googleusercontent.com
+DOMAIN-SUFFIX,lh7.googleusercontent.com
+DOMAIN-SUFFIX,lh8.googleusercontent.com
+DOMAIN-SUFFIX,lh9.googleusercontent.com
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,appengine.google.com
 DOMAIN-SUFFIX,content.googleapis.com
 DOMAIN-SUFFIX,android.clients.google.com
-DOMAIN-SUFFIX,clients.google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,clients2.google.com
 # ===== Binance =====
 DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.*
-DOMAIN-SUFFIX,bn*
-DOMAIN-SUFFIX,saasexch.*
-DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binancepay.com
+DOMAIN-SUFFIX,binancepay.co
+DOMAIN-SUFFIX,binancenft.com
+DOMAIN-SUFFIX,binancenft.io
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binanceapi.io
+DOMAIN-SUFFIX,binancesandbox.com
+DOMAIN-SUFFIX,binancesandbox.io
+DOMAIN-SUFFIX,binancegateway.com
+DOMAIN-SUFFIX,binancegateway.io
+DOMAIN-SUFFIX,binancewallet.com
+DOMAIN-SUFFIX,binancewallet.io
+DOMAIN-SUFFIX,binancead.com
+DOMAIN-SUFFIX,binancead.io
+DOMAIN-SUFFIX,binancepayapi.com
+DOMAIN-SUFFIX,binancepayapi.io
+DOMAIN-SUFFIX,binance-portal.com
+DOMAIN-SUFFIX,binance-portal.io
+DOMAIN-SUFFIX,binance-stats.com
+DOMAIN-SUFFIX,binance-stats.io
+DOMAIN-SUFFIX,binance-cdn.com
+DOMAIN-SUFFIX,binance-cdn.io
+DOMAIN-SUFFIX,binance-robot.com
+DOMAIN-SUFFIX,binance-robot.io
+DOMAIN-SUFFIX,binance-futures.com
+DOMAIN-SUFFIX,binance-futures.io
+DOMAIN-SUFFIX,binance-trade.com
+DOMAIN-SUFFIX,binance-trade.io
 # ===== Reddit =====
 DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,*.reddit.com
-DOMAIN-SUFFIX,redditstatic.*
+DOMAIN-SUFFIX,old.reddit.com
+DOMAIN-SUFFIX,new.reddit.com
+DOMAIN-SUFFIX,m.reddit.com
+DOMAIN-SUFFIX,api.reddit.com
+DOMAIN-SUFFIX,gql-fed.reddit.com
+DOMAIN-SUFFIX,oauth.reddit.com
+DOMAIN-SUFFIX,gateway.reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditstatic.net
 DOMAIN-SUFFIX,v.redd.it
 DOMAIN-SUFFIX,i.redd.it
 DOMAIN-SUFFIX,preview.redd.it
@@ -123,7 +164,8 @@ DOMAIN-SUFFIX,redditmap.org
 DOMAIN-SUFFIX,redditrouter.com
 # ===== XiaoHongShu =====
 DOMAIN-SUFFIX,fengkongcloud.com
-DOMAIN-SUFFIX,xhscdn.*
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,tianwenca.com
 DOMAIN-SUFFIX,qiezibenpao.com
@@ -132,8 +174,10 @@ IP-CIDR,47.97.192.58/32,no-resolve
 # ===== XianYu / Goofish =====
 DOMAIN-SUFFIX,xianyu.mobi
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,*.taobao.com
+DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN-SUFFIX,tls-goofish.dingtalk.com
 DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,api-e189.21cn.com
@@ -144,15 +188,14 @@ IP-CIDR,139.95.0.151/32,no-resolve
 IP-CIDR,47.246.103.9/32,no-resolve
 IP-CIDR,59.82.113.10/32,no-resolve
 # ===== WeChat =====
-DOMAIN-SUFFIX,*.qq.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,weixin.*
-DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weixinsxy.com
-DOMAIN-SUFFIX,wx.*
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+DOMAIN,btrace.qq.com
+DOMAIN,dldir1.qq.com
+DOMAIN,slife.xy-asia.com
+DOMAIN,soup.v.qq.com
+DOMAIN,vweixinf.tc.qq.com
+DOMAIN,weixin110.qq.com
+DOMAIN,wup.imtt.qq.com
 DOMAIN-SUFFIX,iot-tencent.com
 DOMAIN-SUFFIX,lbs.gtimg.com
 DOMAIN-SUFFIX,map.qq.com
@@ -162,18 +205,52 @@ DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,vweixinthumb.tc.qq.com
+DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatlegal.net
 DOMAIN-SUFFIX,wechatos.net
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixinsxy.com
+DOMAIN-SUFFIX,wx.gtimg.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,wxapp.tc.qq.com
+DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,yun-hl.3g.qq.com
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 IP-CIDR,36.150.97.0/24,no-resolve
 IP-CIDR,43.160.156.0/24,no-resolve
 IP-CIDR,101.32.133.0/24,no-resolve
 IP-ASN,132203,no-resolve
-# ===== Telegram =====
-DOMAIN-SUFFIX,telegram.*
-DOMAIN-SUFFIX,telegra.ph
+# ===== Telegram (Local Direct) =====
+DOMAIN,api.imem.app
+DOMAIN,api.swiftgram.app
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,mbrx.app
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,stel.com
 DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegramdownload.com
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
 DOMAIN-KEYWORD,nicegram
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,139.59.210.98/32,no-resolve
