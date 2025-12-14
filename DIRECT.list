@@ -117,33 +117,14 @@ IP-CIDR,203.144.128.0/18,no-resolve
 IP-CIDR,58.8.0.0/16,no-resolve
 IP-CIDR,49.230.0.0/15,no-resolve
 # TrueMoney Thailand
-
 DOMAIN-SUFFIX,truemoney.com
 DOMAIN-SUFFIX,truemoney.co.th
-DOMAIN-SUFFIX,truemoneywallet.com
-DOMAIN-SUFFIX,truemoneywallet.co.th
 DOMAIN-SUFFIX,tmn.app
-DOMAIN-SUFFIX,tmn.co.th
-
 DOMAIN-SUFFIX,ascendmoney.com
 DOMAIN-SUFFIX,ascendmoney.co.th
-DOMAIN-SUFFIX,ascendgroup.com
-DOMAIN-SUFFIX,ascendcorp.com
 DOMAIN-SUFFIX,ascendmoney.io
 DOMAIN-SUFFIX,public-a-cloud1p.ascendmoney.io
 DOMAIN,tmn-mobile-gateway.public-a-cloud1p.ascendmoney.io
-DOMAIN-SUFFIX,amity.co
-DOMAIN,apix.sg.amity.co
-DOMAIN,ssq.sg.amity.co
-DOMAIN,api.mixpanel.com
-DOMAIN,api3.branch.io
-DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,csftr.com
-DOMAIN,69858ad3df1b506e612541f515898dcaa5ca722b.csftr.com
-DOMAIN-SUFFIX,omise.co
-DOMAIN-SUFFIX,omise.co.th
-DOMAIN-SUFFIX,2c2p.com
-DOMAIN-SUFFIX,2c2p.co.th
 # Google Photos 本地分流
 DOMAIN-SUFFIX,photos.google.com
 DOMAIN-SUFFIX,ggpht.com
