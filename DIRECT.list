@@ -198,15 +198,6 @@ DOMAIN-SUFFIX,external-preview.redd.it
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditmap.org
 DOMAIN-SUFFIX,redditrouter.com
-# ===== XiaoHongShu =====
-DOMAIN-SUFFIX,fengkongcloud.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,tianwenca.com
-DOMAIN-SUFFIX,qiezibenpao.com
-DOMAIN-SUFFIX,xinqiucc.com
-IP-CIDR,47.97.192.58/32,no-resolve
 # ===== XianYu / Goofish =====
 DOMAIN-SUFFIX,xianyu.mobi
 DOMAIN-SUFFIX,goofish.com
