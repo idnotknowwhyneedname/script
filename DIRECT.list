@@ -116,15 +116,6 @@ IP-CIDR,124.122.0.0/16,no-resolve
 IP-CIDR,203.144.128.0/18,no-resolve
 IP-CIDR,58.8.0.0/16,no-resolve
 IP-CIDR,49.230.0.0/15,no-resolve
-# TrueMoney Thailand
-DOMAIN-SUFFIX,truemoney.com
-DOMAIN-SUFFIX,truemoneywallet.com
-DOMAIN-SUFFIX,truemoney.co.th
-DOMAIN-SUFFIX,tmn.app
-DOMAIN,api.truemoney.com
-DOMAIN,api.truemoneywallet.com
-DOMAIN,wallet.truemoney.com
-DOMAIN,secure.truemoney.com
 # Google Photos 本地分流
 DOMAIN-SUFFIX,photos.google.com
 DOMAIN-SUFFIX,ggpht.com
