@@ -1,18 +1,35 @@
-# ===== Reddit =====
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,old.reddit.com
-DOMAIN-SUFFIX,new.reddit.com
-DOMAIN-SUFFIX,m.reddit.com
-DOMAIN-SUFFIX,api.reddit.com
-DOMAIN-SUFFIX,gql-fed.reddit.com
-DOMAIN-SUFFIX,oauth.reddit.com
-DOMAIN-SUFFIX,gateway.reddit.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,redditstatic.net
-DOMAIN-SUFFIX,v.redd.it
-DOMAIN-SUFFIX,i.redd.it
-DOMAIN-SUFFIX,preview.redd.it
-DOMAIN-SUFFIX,external-preview.redd.it
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditmap.org
-DOMAIN-SUFFIX,redditrouter.com
+# NAME: XieCheng
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:40
+# DOMAIN-SUFFIX: 29
+# TOTAL: 29
+DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,colinker.com
+DOMAIN-SUFFIX,ctrip.cn
+DOMAIN-SUFFIX,ctrip.co.id
+DOMAIN-SUFFIX,ctrip.co.kr
+DOMAIN-SUFFIX,ctrip.co.th
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,ctrip.com.hk
+DOMAIN-SUFFIX,ctrip.my
+DOMAIN-SUFFIX,ctrip.sg
+DOMAIN-SUFFIX,ctripbiz.com
+DOMAIN-SUFFIX,ctripbuy.hk
+DOMAIN-SUFFIX,ctripteam.com
+DOMAIN-SUFFIX,doticloud.com
+DOMAIN-SUFFIX,easytrip.com
+DOMAIN-SUFFIX,hhtravel.com
+DOMAIN-SUFFIX,hhtravel.com.tw
+DOMAIN-SUFFIX,izuchebao.com
+DOMAIN-SUFFIX,lvtds.com
+DOMAIN-SUFFIX,shuntu.cn
+DOMAIN-SUFFIX,skysea.com
+DOMAIN-SUFFIX,suanya.cn
+DOMAIN-SUFFIX,suanya.com
+DOMAIN-SUFFIX,tieyou.com
+DOMAIN-SUFFIX,toptown.cn
+DOMAIN-SUFFIX,toursbms.com
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,vipdlt.com
