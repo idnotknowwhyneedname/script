@@ -1,41 +1,52 @@
-# NAME: XieCheng
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:40
-# DOMAIN-SUFFIX: 29
-# TOTAL: 29
+# >>> 闲鱼 (XianYu / Goofish) - 关联阿里底层及支付接口
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,goofish.net
+DOMAIN-SUFFIX,xianyu.mobi
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,tbcache.com
+DOMAIN-SUFFIX,alkaid-common.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-KEYWORD,xianyu
+DOMAIN-KEYWORD,goofish
+# >>> 小红书 (XiaoHongShu) - 涵盖所有 CDN 与验证组件
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.org
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,redbook.com
+DOMAIN-KEYWORD,xiaohongshu
+# >>> 携程 (Trip / Ctrip) - 涵盖全球分支与差旅子品牌
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,tripcdn.com
 DOMAIN-SUFFIX,c-ctrip.com
-DOMAIN-SUFFIX,colinker.com
 DOMAIN-SUFFIX,ctrip.cn
 DOMAIN-SUFFIX,ctrip.co.id
 DOMAIN-SUFFIX,ctrip.co.kr
 DOMAIN-SUFFIX,ctrip.co.th
-DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,ctrip.com.hk
 DOMAIN-SUFFIX,ctrip.my
 DOMAIN-SUFFIX,ctrip.sg
 DOMAIN-SUFFIX,ctripbiz.com
 DOMAIN-SUFFIX,ctripbuy.hk
 DOMAIN-SUFFIX,ctripteam.com
-DOMAIN-SUFFIX,doticloud.com
-DOMAIN-SUFFIX,easytrip.com
-DOMAIN-SUFFIX,hhtravel.com
-DOMAIN-SUFFIX,hhtravel.com.tw
-DOMAIN-SUFFIX,izuchebao.com
-DOMAIN-SUFFIX,lvtds.com
-DOMAIN-SUFFIX,shuntu.cn
-DOMAIN-SUFFIX,skysea.com
+DOMAIN-SUFFIX,tieyou.com
 DOMAIN-SUFFIX,suanya.cn
 DOMAIN-SUFFIX,suanya.com
-DOMAIN-SUFFIX,tieyou.com
-DOMAIN-SUFFIX,toptown.cn
-DOMAIN-SUFFIX,toursbms.com
-DOMAIN-SUFFIX,trip.com
-DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,hhtravel.com
+DOMAIN-SUFFIX,hhtravel.com.tw
+DOMAIN-SUFFIX,easytrip.com
+DOMAIN-SUFFIX,izuchebao.com
 DOMAIN-SUFFIX,vipdlt.com
-# NAME: XiaoHongShu
-DOMAIN-SUFFIX,fengkongcloud.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xiaohongshu.com
-
+DOMAIN-SUFFIX,skysea.com
+DOMAIN-SUFFIX,colinker.com
+DOMAIN-SUFFIX,doticloud.com
+DOMAIN-SUFFIX,lvtds.com
+DOMAIN-SUFFIX,toursbms.com
+DOMAIN-SUFFIX,shuntu.cn
+DOMAIN-SUFFIX,toptown.cn
+DOMAIN-KEYWORD,ctrip
