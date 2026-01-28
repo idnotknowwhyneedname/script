@@ -46,22 +46,3 @@ DOMAIN-SUFFIX,toursbms.com
 DOMAIN-SUFFIX,shuntu.cn
 DOMAIN-SUFFIX,toptown.cn
 DOMAIN-KEYWORD,ctrip
-
-# ===== Reddit =====
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,old.reddit.com
-DOMAIN-SUFFIX,new.reddit.com
-DOMAIN-SUFFIX,m.reddit.com
-DOMAIN-SUFFIX,api.reddit.com
-DOMAIN-SUFFIX,gql-fed.reddit.com
-DOMAIN-SUFFIX,oauth.reddit.com
-DOMAIN-SUFFIX,gateway.reddit.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,redditstatic.net
-DOMAIN-SUFFIX,v.redd.it
-DOMAIN-SUFFIX,i.redd.it
-DOMAIN-SUFFIX,preview.redd.it
-DOMAIN-SUFFIX,external-preview.redd.it
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditmap.org
-DOMAIN-SUFFIX,redditrouter.com
