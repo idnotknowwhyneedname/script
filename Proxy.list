@@ -1,16 +1,11 @@
 # >>> 闲鱼 (XianYu / Goofish) - 关联阿里底层及支付接口
-DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,goofish.net
-DOMAIN-SUFFIX,xianyu.mobi
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,alkaid-common.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-KEYWORD,xianyu
 DOMAIN-KEYWORD,goofish
-DOMAIN-SUFFIX,rtc.aliyuncs.com
 DOMAIN-SUFFIX,vod.cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX,apoll.m.taobao.com
 IP-CIDR,47.246.0.0/16
 IP-CIDR,49.231.0.0/16
 # >>> 小红书 (XiaoHongShu) - 涵盖所有 CDN 与验证组件
