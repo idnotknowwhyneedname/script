@@ -4,14 +4,12 @@ DOMAIN-KEYWORD,xianyu
 DOMAIN-KEYWORD,goofish
 DOMAIN-SUFFIX,apoll.m.taobao.com
 # >>> 小红书 (XiaoHongShu) - 涵盖所有 CDN 与验证组件
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xiaohongshu.org
-DOMAIN-SUFFIX,arkoselabs.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,redbook.com
 DOMAIN-KEYWORD,xiaohongshu
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,redbook.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,arkoselabs.com
+
 # >>> 携程 (Trip / Ctrip) - 涵盖全球分支与差旅子品牌
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,trip.com
